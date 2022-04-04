@@ -6,14 +6,14 @@
 
 ### Who Am I
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=clsung7911&show_icons=true&theme=chartreuse-dark">
+
 
 - 🌱 I’m keep learning `Java`, `Javascript`, `ES6`
 - 👨‍🎓 I majored in GIS (Geographic Information System)
 - 🏠 Suji-gu, Yongin-si, Gyeonggi-do
 - 💑 I am married.
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=clsung7911&show_icons=true&theme=chartreuse-dark" height="170">
 
 ### Experience
 
