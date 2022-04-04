@@ -1,4 +1,9 @@
-### Hi there 👋
+# Profile
+
+<img src="https://img.shields.io/badge/clsung7911@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/clsung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)
+
 
 <!--
 **clsung7911/clsung7911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
