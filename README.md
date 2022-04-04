@@ -3,8 +3,60 @@
 <img src="https://img.shields.io/badge/clsung7911@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/clsung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>&nbsp;
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)&nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclsung7911&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/clsung7911)
 
+### Who Am I
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=clsung7911&show_icons=true&theme=chartreuse-dark">
+
+- 🌱 I’m keep learning `Java`, `Javascript`, `ES6`
+- 👨‍🎓 I majored in GIS (Geographic Information System)
+- 🏠 Suji-gu, Yongin-si, Gyeonggi-do
+- 💑 I am married.
+
+
+
+### Experience
+
+- 🎓 NamSeoul University  (2011.03 ~ 2018.02)
+- 🔭 Wavus, Web FullStack & GIS Developer (2018.04 ~ )
+
+
+
+### LIKE
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clsung7911&layout=compact&theme=chartreuse-dark" height="100%"> -->
+
+- 🎮 Game (Starcarft, very well)
+- 👨‍🍳 Cook
+
+
+### Skill
+
+#### Language & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Openlayers-1F6B75?style=flat-square&logo=Openlayers&logoColor=white"/>
+<img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+</p>
+
+#### Tools
+
+<p>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/svn-3E7FC1?style=flat-square&logoColor=white"/>
+</p>
 
 <!--
 **clsung7911/clsung7911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
