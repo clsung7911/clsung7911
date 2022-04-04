@@ -25,7 +25,7 @@
 
 ### LIKE
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clsung7911&layout=compact&theme=chartreuse-dark" height="100%"> -->
 
 - 🎮 Game (Starcarft, very well)
