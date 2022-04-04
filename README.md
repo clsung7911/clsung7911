@@ -1,9 +1,9 @@
 # Profile
 
-<img src="https://img.shields.io/badge/clsung7911@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/clsung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
-
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)
+<img src="https://img.shields.io/badge/clsung7911@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/clsung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>&nbsp;
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclsung7911&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/clsung7911)
 
 
 <!--
