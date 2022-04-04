@@ -1,9 +1,10 @@
 # Profile
 
-<img src="https://img.shields.io/badge/clsung7911@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/clsung-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>&nbsp;
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:clsung7911@gmail.com)](mailto:clsung7911@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sung-june-lee-68b179171)](https://www.linkedin.com/in/sung-june-lee-68b179171/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://clsung.tistory.com/)
 
+ 
 ### Who Am I
 
 
@@ -24,6 +25,7 @@
 
 ### LIKE
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clsung7911&layout=compact&theme=chartreuse-dark" height="100%"> -->
 
 - 🎮 Game (Starcarft, very well)
