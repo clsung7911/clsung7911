@@ -11,8 +11,9 @@
 
 - 🌱 I’m keep learning `Java`, `Javascript`, `ES6`
 - 👨‍🎓 I majored in GIS (Geographic Information System)
-- 🏠 Suji-gu, Yongin-si, Gyeonggi-do
-- 💑 I am married.
+- 🏠 Dong-tan, Hwasung-si, Gyeonggi-do
+- 💑 I am married. (2019)
+- 👶 I have a Son. (2022)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=clsung7911&show_icons=true&theme=chartreuse-dark" height="170">
 
